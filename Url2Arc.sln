@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Url2Arc", "Url2Arc\Url2Arc.csproj", "{E0B737BF-F290-4E11-A21E-B359C5D9CF71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Url2Arc.SampleApp", "Url2Arc.SampleApp\Url2Arc.SampleApp.csproj", "{13994D02-A2BE-4282-A339-737961A6DAA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0B737BF-F290-4E11-A21E-B359C5D9CF71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0B737BF-F290-4E11-A21E-B359C5D9CF71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0B737BF-F290-4E11-A21E-B359C5D9CF71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0B737BF-F290-4E11-A21E-B359C5D9CF71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13994D02-A2BE-4282-A339-737961A6DAA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13994D02-A2BE-4282-A339-737961A6DAA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13994D02-A2BE-4282-A339-737961A6DAA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13994D02-A2BE-4282-A339-737961A6DAA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
